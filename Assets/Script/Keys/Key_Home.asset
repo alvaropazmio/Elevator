@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b8b63fb4a0d8544db68a8551d8f30dc, type: 3}
+  m_Name: Key_Home
+  m_EditorClassIdentifier: 
+  destinationSceneName: Home
+  startStencilInt: 1
+  destinationStencilInt: 2
+  mesh: {fileID: 8321685774571456786, guid: c02d1736b1256f74bbe47ced18636004, type: 3}
+  material: {fileID: 2100000, guid: a457a504803efad4b9828d5f3ab483f3, type: 2}
+  elevator: {fileID: 3121976250071567934, guid: 295493ead51e896479e5b129fabc3dc1,
+    type: 3}

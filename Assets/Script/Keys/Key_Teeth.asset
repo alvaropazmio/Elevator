@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b8b63fb4a0d8544db68a8551d8f30dc, type: 3}
+  m_Name: Key_Teeth
+  m_EditorClassIdentifier: 
+  destinationSceneName: Teeth
+  destinationStencilInt: 3
+  mesh: {fileID: -1343429623790557531, guid: 207395e5214240945bd4454770aaf342, type: 3}
+  material: {fileID: 0}
+  elevator: {fileID: 3121976250071567934, guid: 295493ead51e896479e5b129fabc3dc1,
+    type: 3}
